@@ -34,10 +34,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 'harindukodi'
+facebook: 'https://www.facebook.com/harindukodi/'
 twitter: 'harindukodi'
 # google: mygoogle
-# instagram: myinstagram
+instagram: 'https://www.instagram.com/harinduk/'
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
