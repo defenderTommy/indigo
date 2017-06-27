@@ -36,10 +36,10 @@ disqus:
 # if you don't have any of social below, comment the line
 facebook: 'https://www.facebook.com/harindukodi/'
 twitter: 'harindukodi'
-# google: mygoogle
-instagram: 'https://www.instagram.com/harinduk/'
+google: '+harindukodituwakku'
+instagram: 'harinduk'
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: 'harindukodi'
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
@@ -49,7 +49,7 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: harindukodi@outlook.com
 
 authors:
     johndoe:
