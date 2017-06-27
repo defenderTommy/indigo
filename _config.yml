@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 'https://www.facebook.com/harindukodi/'
+facebook: 'harindukodi'
 twitter: 'harindukodi'
-google: '+harindukodituwakku'
+google: 'harindukodituwakku'
 instagram: 'harinduk'
 # pinterest: mypinterest
 linkedin: 'harindukodi'
 # youtube: myyoutube
-# spotify: myspotify
+spotify: 'harinduk'
 github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
