@@ -14,8 +14,8 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-#resume-url: <a href="https://drive.google.com/open?id=0B0ZxGFec6RDUWElhbHJySl93WDA" target="_blank">Hello, world!</a>
-resume-url: [CV](https://drive.google.com/open?id=0B0ZxGFec6RDUWElhbHJySl93WDA){:target="_blank"}
+resume-url: <a href="https://drive.google.com/open?id=0B0ZxGFec6RDUWElhbHJySl93WDA" target="_blank">Resume</a>
+#resume-url: [CV](https://drive.google.com/open?id=0B0ZxGFec6RDUWElhbHJySl93WDA){:target="_blank"}
 
 url: http://harindu.xyz
 # your url: http://USERNAME.github.io
